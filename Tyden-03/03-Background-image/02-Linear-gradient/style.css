@@ -10,10 +10,10 @@ html { box-sizing: border-box; }
 	border: 1px dashed grey;
 
 
-	background-image: linear-gradient(red, yellow, blue);
+	background-image: linear-gradient(to right top,red, yellow, blue);
 }
 
-/* ------------------------------------ */
+/* do závorky můžeme použít i jednotku pro úhel barvy pomocí zkratky deg, příklad 60deg a nebo to left/right/top a kombinovat to left top/ to right top */
 
 
 
