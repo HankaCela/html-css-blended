@@ -17,7 +17,7 @@ html { box-sizing: border-box; }
 	background-size: cover;
 	*/
 
-	background: salmon url(images/vzor.png) no-repeat center/cover;
+	background: black url(images/vysoke.jpg) no-repeat center/contain;
 }
 
 /* ------------------------------------ */
